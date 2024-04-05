@@ -5,6 +5,14 @@ A custom theme for <a href="https://www.obsidian.md">Obsidian.</a> Sandover is i
 
 the theme is still in beta stage.
 
-
+### Recommended plugins
+* Better footnote
+* Better Word Count
+* Footnote Shortcut
+* Longform
+* Pandoc Plugin
+* Pandoc Reference List
+* Smart Typography
+* Typewriter
 
 <!-- images of stonington room and page from merrill archive typewritten --->
