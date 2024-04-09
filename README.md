@@ -4,7 +4,7 @@
 
 <img src="images/sandover-plain.png">
 <img src="images/Sandover_with_plugins.png">
-<img src="images/sandover-dark.png">
+<img src="images/sandover-dark1.png">
 
 ### Recommended plugins
 * Better footnote
