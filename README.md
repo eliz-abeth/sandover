@@ -1,5 +1,5 @@
 ## This is Sandover.
-<img align="left" width="600" src="images/merrill-jackson-apartment.jpeg">  
+<img align="left" width="400" src="images/merrill-jackson-apartment.jpeg">  
 
 >“Backdrop: The dining room at Stonington.  
 Walls of ready-mixed matte “flame” (a witty  
