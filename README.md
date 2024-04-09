@@ -1,6 +1,6 @@
 ## This is Sandover.
-<img align="left" width="430" src="images/merrill-jackson-apartment.jpeg">  
-“Backdrop: The dining room at Stonington.  <br>
+<img align="left" width="420" src="images/merrill-jackson-apartment.jpeg">  
+<blockquote>“Backdrop: The dining room at Stonington.  <br>
 Walls of ready-mixed matte “flame” (a witty  <br>
 Shade, now watermelon, now sunburn).  <br>
 Overhead, a turn-of-the-century dome  <br>
@@ -11,7 +11,7 @@ Perspective of the newly dead, would take it <br>
 For an alcove in the Baptist church next door  <br>
 Whose moonlit tower saw eye to eye with us.  <br>
 The room breathed sheer white curtains out.”  <br>
-~ James Merrill, <i>The Changing Light at Sandover</i>
+<footer>James Merrill, <cite><i>The Changing Light at Sandover</i></cite></footer></blockquote>
 
 <br>
 
