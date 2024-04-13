@@ -279,7 +279,7 @@ body {
 	--text-normal: var(--color-light1);
 	--text-muted: rgba(var(--color-light1-rgb), 0.8);
 	--text-faint: rgba(var(--color-light1-rgb), 0.5);
-	--link-color: var(--color-salmon-rgb);
+	--link-color: var(--color-salmon);
 
 	--h1-color: var(--sandover-purple);
 
