@@ -4,8 +4,7 @@
 
 <p>I wanted an inspiring, manuscript-like workspace and the ability to add comments. In Sandover, you can leave blue comments by using blockquote syntax, so that you can easily see them while typing--as if you'd written with blue ink between lines. If you don't like this feature, you can change blockquote text color using the <a hfref="https://github.com/mgmeyers/obsidian-style-settings">Style Settings</a> plugin. I hope that it will fulfill other users' needs as it does mine. The theme is for poets, novelists, academics, and writers of all kinds to use. </p>
 
-<img src="images/Sandover_with_plugins.png">
-<img src="images/sandover-dark1.png">
+<img src="/combined-screenshot.png">
 
 <p> Compatible with <a href="https://github.com/mgmeyers/obsidian-style-settings">Style Settings Plugin</a>. More settings available soon.</p>
 
