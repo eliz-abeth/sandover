@@ -5,7 +5,7 @@
 <img src="images/Sandover_with_plugins.png">
 <img src="images/sandover-dark1.png">
 
-<p> Compatible with <a href="https://github.com/mgmeyers/obsidian-style-settings">Style Settings Plugin</a>. For fully integrated diacritical marks, turn on 'Enable diacritical marks' in Style Settings. More settings available soon.</p>
+<p> Compatible with <a href="https://github.com/mgmeyers/obsidian-style-settings">Style Settings Plugin</a>. More settings available soon.</p>
 
 <p>The font is encoded so no additional downloads are needed.</p>
 
